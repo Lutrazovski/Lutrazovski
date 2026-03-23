@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  
+###  👋 Olá, eu sou o <strong>Gustavo Ribeiro de Oliveira</strong><br/>
 
-<!--
-**Lutrazovski/Lutrazovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+##
+- 💻 <strong>Desenvolvedor Fullstack</strong> <br/>
+- 🎯 Buscando oportunidades como desenvolvedor <br/>
+- 🚀 Apaixonado por criar soluções funcionais, aprender novas tecnologias e métodos focados em escalabilidade e performance.
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api?username=lutrazovski&show_icons=true&theme=dark'/>
+  <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lutrazovski&layout=compact&theme=dark'/>
+</div>
+
+</br>
